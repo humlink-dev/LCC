@@ -64,7 +64,7 @@ public class BatteryConservationController extends JFrame {
         buttonPanel.add(enableButton);
         buttonPanel.add(disableButton);
 
-        // Add components to main panel
+        // Main Panel Components ^^
         mainPanel.add(Box.createVerticalStrut(20));
         mainPanel.add(titleLabel);
         mainPanel.add(Box.createVerticalStrut(30));
