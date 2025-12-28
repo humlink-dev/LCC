@@ -25,7 +25,7 @@ This version provides a text-based user interface (TUI) that works in any termin
 
 1. Clone the repo :
    
-   git clone https://github.com/hexSec-arch/ConservationMode-Lenovo-.git
+   git clone https://github.com/humlink-dev/LCC.git
 
 3. cd ConservationMode-Lenovo-
 
